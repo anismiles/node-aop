@@ -1,0 +1,9 @@
+{
+	"name": "node-aop",
+	"description" : "aspect oriented programming in Node",
+	"version": "0.1.0",
+	"repository": {},
+	"author" : "Animesh Kumar <smile.animesh@gmail.com> (http://animesh.org)",
+	"main" : "index",
+	"engines" : {"node": "*"}
+}
